@@ -6,7 +6,7 @@
 This Python program retrieves a GitHub user's repositories and counts the number of commits in each repository using the GitHub API. It is designed to be simple and easy to test.
 
 ## How to run
-1. Make sure Python 3.X is installed.
+1. Make sure Python 3.8 is installed.
 2. Make sure the `requests` library is installed:
 
 
@@ -14,8 +14,4 @@ This Python program retrieves a GitHub user's repositories and counts the number
 
 
 4. Enter a GitHub username when prompted (e.g., `richkempinski`).
-
-## Continuous Integration
-- Travis CI or CircleCI can be linked to this repo to automatically run tests.
-- After successful builds, a badge can be added here to show build status.
 
