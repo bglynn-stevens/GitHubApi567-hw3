@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/bglynn-stevens/GitHubApi567-hw3/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/bglynn-stevens/GitHubApi567-hw3/tree/main)
+
 # GitHubApi567-hw3
 
 ## Description
