@@ -1,6 +1,6 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/bglynn-stevens/GitHubApi567-hw3/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/bglynn-stevens/GitHubApi567-hw3/tree/main)
 
-# GitHubApi567-hw3
+# GitHubApi567-hw03a
 
 ## Description
 This Python program retrieves a GitHub user's repositories and counts the number of commits in each repository using the GitHub API. It is designed to be simple and easy to test.
