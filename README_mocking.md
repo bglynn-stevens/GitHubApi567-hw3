@@ -1,4 +1,4 @@
-# GitHub API HW03B_Mocking
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/bglynn-stevens/GitHubApi567-hw3/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/bglynn-stevens/GitHubApi567-hw3/tree/HW03b_mocking)
 
 ## Description
 This branch contains the mocked unit tests for the GitHub API assignment.  
@@ -13,7 +13,4 @@ All external GitHub calls are mocked using `unittest.mock`, so tests run reliabl
 ## How to run the tests
 1. Run the tests (mocked, no real API calls)
 
-   
-## Build Status
-[![CircleCI](https://circleci.com/gh/yourusername/yourrepo/tree/HW03B_mocking.svg?style=svg)](https://circleci.com/gh/yourusername/yourrepo/tree/HW03B_mocking)
 
