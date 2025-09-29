@@ -5,9 +5,9 @@ This branch contains the mocked unit tests for the GitHub API assignment.
 All external GitHub calls are mocked using `unittest.mock`, so tests run reliably without hitting the real GitHub API.
 
 ## How to run the program
-1. Make sure Python 3.x is installed.
+1. Make sure Python 3.8 is installed.
 2. Make sure the `requests` library is installed:  
-3. Run the program:
+3. Run the program.
 4. Enter a GitHub username when prompted.
 
 ## How to run the tests
